@@ -27,4 +27,5 @@ README.md: This document.
 5. State Representation: Description of how the state of the problem is represented in the implementation.
 6. Result Analysis: Analysis of the solution's performance and effectiveness.
 
-'''python 
+```python
+
