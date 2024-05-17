@@ -1,0 +1,15 @@
+Best First Sench (Informed, Heuristic)
+
+## Algorithm:
+
+Let OPEN be a priority queue containing
+  initial state.
+  Loop
+    if OPEN is empty return failure
+    Node <- Remove-Fist (OPEN)
+    if node is a Goal
+    then reform the Path from initial to Node
+else generate all successions of Node and
+    Put the newly generated Node into OPEN
+    according to their f(heuristic value) values in increasing order
+  END LOOP
