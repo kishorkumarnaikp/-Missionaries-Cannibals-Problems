@@ -27,5 +27,13 @@ README.md: This document.
 5. State Representation: Description of how the state of the problem is represented in the implementation.
 6. Result Analysis: Analysis of the solution's performance and effectiveness.
 
+
+Clone the repository to your local machine using:
 ```python
-https://github.com/kishorkumarnaikp/-Missionaries-Cannibals-Problems.git
+git clone https://github.com/kishorkumarnaikp/-Missionaries-Cannibals-Problems.git
+```
+
+Navigate to the project directory:
+```python
+cd -Missionaries-Cannibals-Problems
+
