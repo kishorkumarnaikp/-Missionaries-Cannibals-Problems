@@ -1,4 +1,4 @@
-Missionaries-Cannibals Problem: Best First Search Algorithm
+###  Missionaries-Cannibals Problem: Best First Search Algorithm
 
 Overview
 This repository provides a solution to the classic Missionaries-Cannibals problem using the Best First Search algorithm. The problem involves three missionaries and three cannibals who must cross a river using a boat that can carry at most two people. The goal is to ensure that at no point do the cannibals outnumber the missionaries on either side of the river, to prevent the missionaries from being eaten.
